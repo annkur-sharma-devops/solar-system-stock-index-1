@@ -20,8 +20,8 @@ This app simulates a stock ticker where planetary systems are represented as sto
 # ⚙️ How to Build & Run
 Clone the repo
 ```bash
-git clone https://github.com/annkur-sharma-devops/solar-system-stock-index.git
-cd solar-system-stock-index
+git clone https://github.com/annkur-sharma-devops/solar-system-stock-index-1.git
+cd solar-system-stock-index-1
 ```
 
 Build with Maven
