@@ -20,7 +20,7 @@ This app simulates a stock ticker where planetary systems are represented as sto
 # ⚙️ How to Build & Run
 Clone the repo
 ```bash
-git clone https://github.com/your-username/solar-system-stock-index.git
+git clone https://github.com/annkur-sharma-devops/solar-system-stock-index.git
 cd solar-system-stock-index
 ```
 
@@ -38,6 +38,8 @@ Copy target/solar-system-stock-index.war to Tomcat’s webapps/ folder
 
 # Start Tomcat
 Access at: http://localhost:8080/solar-system-stock-index/
+
+Note: Update port to Apache Tomcat port, if it is different than 8080.
 
 ---
 
